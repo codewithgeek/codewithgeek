@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Atul Kumar and I'm a passionate MERN stack developer from INDIA </p>
+<p align="left">My name is Atul Kumar and I'm a passionate MERN stack developer from INDIA 🇮🇳 </p>
 
 ###
 
