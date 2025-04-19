@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Atul Kumar and I'm a passionate MERN stack developer from INDIA 🇮🇳 </p>
+<p align="left">My name is Atul Kumar and I'm a passionate MERN stack developer from INDIA </p>
 
 ###
 
@@ -12,7 +12,7 @@
 
 
 # 💫 About Me:
-🔭 I’m currently working on MERN Stack<br>💬 Ask me about the web apps<br>⚡ Fun fact : I'm not  a heartless person<br>
+🔭 I’m currently working on MERN Stack and Software Developer<br>💬 Ask me about the web apps<br>⚡ Fun fact : I'm not a heartless person<br>
 
 
 # 💻 Tech Stack:
